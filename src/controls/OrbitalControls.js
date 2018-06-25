@@ -15,7 +15,7 @@
 
 import * as THREE from "three"
 
-export var OrbitControls:any = function ( object, domElement ) {
+export var OrbitControls = function ( object, domElement ) {
 
 	this.object = object;
 
